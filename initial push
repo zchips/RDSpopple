@@ -1,0 +1,17 @@
+This is for the initial push, and will also begin to lay out the scope of this project. 
+
+
+ideally this project will:
+1) allow cross platform sharing between apple music and spotify
+2) be a tool that allows audiences to share music to others and their specific music listen platform
+
+
+Apple and Spotify both have apis that allow for development however, Spotify's seems to be more open and detailed 
+
+
+right now the plan is for there to be a search bar that allows for a user to enter a songs name, or url and for it to generate the desired platforms link. So I put in a country song for apple music and it gives me the link.
+
+additionally, i want to have state stored in the website so that users can add multiple urls to a 'playlist' and that to be shared and populated from deeplinks
+
+
+Research has been done and it seems like this can be done, however research and knowledge is scattered so this will hopefully be the origin document
